@@ -1,0 +1,56 @@
+
+.titulo {
+    padding: 15px;
+    width: 30vw;
+    margin: auto;
+    color: whitesmoke;
+    font-size: xxx-large;
+}
+  
+.btn {
+    border: 0;
+    color: white;
+    font-weight: bold;
+    background-color: #505160;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 0.5em;
+}
+  
+.text-input {
+    border-radius: 0.5em;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    display: block;
+    padding: 0.5em;
+    width: 30%;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#nuevo-juego {
+  display: none;
+}
+
+.agregarpalabranueva {
+    display: block;
+}
+
+#ahorcado {
+    background-color: #505160;
+    border-radius: 10%;
+}
+
+body {
+    background-image: url("https://media.cnnchile.com/sites/2/2018/06/imagen_principal-2296-740x430.jpg");
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: #505160;
+    color: white;
+    position: absolute;
+    bottom: 0;
+  }
